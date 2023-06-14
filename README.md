@@ -1,4 +1,4 @@
-# SuperU1 Django API
+# SuperU Django API
 
 This repository contains a Django API for managing user profiles in the SuperU1 application.
 
